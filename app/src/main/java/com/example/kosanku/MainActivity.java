@@ -9,8 +9,6 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-import sun.jvm.hotspot.debugger.win32.coff.TestDebugInfo;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
